@@ -1,0 +1,8 @@
+### 1.range
+https://blog.csdn.net/df0128/article/details/83866158?ops_request_misc=&request_id=&biz_id=102&utm_term=%20range(n)&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-83866158.nonecase&spm=1018.2226.3001.4187
+### 2.append
+https://blog.csdn.net/wangyuxiang946/article/details/122142534?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170849066516800226592622%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170849066516800226592622&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-122142534-null-null.142^v99^pc_search_result_base1&utm_term=python%20append&spm=1018.2226.3001.4187
+### 3.map
+https://blog.csdn.net/quanlingtu1272/article/details/95482253?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170849090316800225548420%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170849090316800225548420&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-95482253-null-null.142^v99^pc_search_result_base1&utm_term=python%20map%E5%87%BD%E6%95%B0&spm=1018.2226.3001.4187
+### 4.join
+https://blog.csdn.net/sinat_38682860/article/details/93388517?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170849077316800227466972%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170849077316800227466972&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-93388517-null-null.142^v99^pc_search_result_base1&utm_term=python%20join%E5%87%BD%E6%95%B0&spm=1018.2226.3001.4187
